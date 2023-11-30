@@ -1,0 +1,1 @@
+call supplier_ratings();
